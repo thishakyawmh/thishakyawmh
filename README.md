@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hirun Thishakya</h1>
-<h3 align="center">💻 Passionate about coding and always in search of the next innovation.</h3>
+<img alt="Coding" src="https://github.com/thishakyawmh/thishakyawmh/blob/0eaa61998a8f6767fa44b003f705189e121d9a9c/my%20bannar.png"  align="center"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20views&color=0e75b6&style=flat" alt="thishakyawmh" /> </p>
 <p align = "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/></p>
