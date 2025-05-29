@@ -1,4 +1,4 @@
-<img alt="bannar" src="https://github.com/thishakyawmh/thishakyawmh/blob/main/my%20bannr.png"  align="center"/>
+<img alt="bannar" src=""  align="center"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20views&color=0e75b6&style=flat" alt="thishakyawmh" /> </p>
 <p align = "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/></p>
