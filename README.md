@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/hirun_thishakya" target="blank"><img src="https://img.shields.io/twitter/follow/hirun_thishakya?logo=twitter&style=for-the-badge" alt="hirun_thishakya" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.thishakya.com](www.thishakya.com)
+- 👨‍💻 All of my projects are available at [www.thishakya.com](https://www.thishakya.com/)
 
 - 📫 How to reach me **hirunthishakya.wmh25@gmail.com**
 
