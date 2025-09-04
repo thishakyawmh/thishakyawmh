@@ -14,8 +14,8 @@
 
 <div align="center">
 
- 💼 All of my projects are available at [www.thishakya.com](https://www.thishakya.com/)
- 📧 How to reach me: **hirunthishakya.wmh25@gmail.com**
+ 💼 All of my projects are available at [www.thishakya.com](https://www.thishakya.com/) <br>
+ 📧 How to reach me: **hirunthishakya.wmh25@gmail.com** <br>
  💡 Fun fact: **Call me as thish**
 
 </div>
