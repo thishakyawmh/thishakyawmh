@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20views&color=0e75b6&style=flat" alt="thishakyawmh" /> 
+  <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20views&color=0e75b6&style=flat" alt="thishakyawmh" /> <br>
   <a href="https://twitter.com/hirun_thishakyawmh" target="blank"><img src="https://img.shields.io/twitter/follow/hirun_thishakyawmh?logo=twitter&style=for-the-badge" alt="hirun_thishakyawmh" /></a>
 </p>
 
