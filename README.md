@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=thishakyawmh&theme=dark&background=00000000" alt="3D Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thishakyawmh&theme=react-dark&hide_border=true&area=true&line=00BFFF&point=FFFFFF" alt="GitHub Activity Graph"/>
 </p>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20views&color=0e75b6&style=flat" alt="thishakyawmh" /> 
-  <a href="https://twitter.com/hirun_thishakya" target="blank"><img src="https://img.shields.io/twitter/follow/hirun_thishakya?logo=twitter&style=for-the-badge" alt="hirun_thishakya" /></a>
+  <a href="https://twitter.com/hirun_thishakyawmh" target="blank"><img src="https://img.shields.io/twitter/follow/hirun_thishakyawmh?logo=twitter&style=for-the-badge" alt="hirun_thishakyawmh" /></a>
 </p>
 
 <p align = "center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/></p>
