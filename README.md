@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./bannarimage.png" width="100%" alt="Hirun Thishakya - Profile Banner" style="border-radius: 10px;" />
+  <img src="./bannarimage.jpg" width="100%" alt="Hirun Thishakya - DevOps Engineer" style="border-radius: 10px;" />
 
   <br>
 
