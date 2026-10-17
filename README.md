@@ -6,7 +6,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/thishakyawmh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=DevOps+Engineer;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Founder+of+ALYXRA;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
   </a>
 
   <br><br>
