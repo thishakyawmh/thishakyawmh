@@ -32,6 +32,55 @@
 
 ---
 
+### Activity & Performance
+
+<div align="center">
+
+  <!-- Overview Stats & Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thishakyawmh&show_icons=true&title_color=f99827&text_color=c9d1d9&icon_color=f99827&bg_color=0d1117&hide_border=true&count_private=true" width="48.5%" alt="Overview Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishakyawmh&title_color=f99827&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact&langs_count=8" width="48.5%" alt="Top Languages" />
+  </p>
+
+  <!-- Streak Stats (Crisp native proportions) -->
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=thishakyawmh&theme=dark&background=0d1117&border=30363d&stroke=f99827&ring=f99827&fire=f99827&currStreakLabel=f99827&hide_border=true" width="60%" alt="Contribution Streak" />
+  </p>
+
+  <!-- Activity Frequency Graph (Active Working Mirror) -->
+  <p align="center">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=thishakyawmh&theme=tokyo-night&bg_color=0d1117&color=f99827&line=f99827&point=e6b87d&area=true&hide_border=true" width="100%" alt="Activity Frequency Graph" />
+  </p>
+
+</div>
+
+---
+
+### Contribution Stream
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### Technical Capabilities
+
+| Domain | Stack & Tooling Chips |
+| :--- | :--- |
+| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> |
+| **Web & Mobile** | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> |
+| **Data & Hardware** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> |
+| **Design & Prototyping** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/> |
+
+---
+
 ### Core Focus & Capabilities
 
 <table>
@@ -112,55 +161,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### Technical Capabilities
-
-| Domain | Stack & Tooling Chips |
-| :--- | :--- |
-| **DevOps & Cloud** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> |
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> |
-| **Web & Mobile** | <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> |
-| **Data & Hardware** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> |
-| **Design & Prototyping** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/> |
-
----
-
-### Activity & Performance
-
-<div align="center">
-
-  <!-- Overview Stats & Top Languages -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=thishakyawmh&show_icons=true&title_color=f99827&text_color=c9d1d9&icon_color=f99827&bg_color=0d1117&hide_border=true&count_private=true" width="48.5%" alt="Overview Stats" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thishakyawmh&title_color=f99827&text_color=c9d1d9&bg_color=0d1117&hide_border=true&layout=compact&langs_count=8" width="48.5%" alt="Top Languages" />
-  </p>
-
-  <!-- Streak Stats (Crisp native proportions) -->
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=thishakyawmh&theme=dark&background=0d1117&border=30363d&stroke=f99827&ring=f99827&fire=f99827&currStreakLabel=f99827&hide_border=true" width="60%" alt="Contribution Streak" />
-  </p>
-
-  <!-- Activity Frequency -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thishakyawmh&theme=github-compact&custom_title=Activity%20Frequency&bg_color=0d1117&color=f99827&line=f99827&point=e6b87d&area=true&hide_border=true" width="100%" alt="Activity Frequency Graph" />
-  </p>
-
-</div>
-
----
-
-### Contribution Stream
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/thishakyawmh/thishakyawmh/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
 ---
 
