@@ -1,15 +1,15 @@
 <div align="center">
 
-  <img src="./bannarimage.jpg" width="100%" alt="Hirun Thishakya - DevOps Engineer" style="border-radius: 10px;" />
+  <img src="./bannarimage.png" width="100%" alt="Hirun Thishakya - DevOps Engineer" />
 
-  <br>
+  <br><br>
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/thishakyawmh">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=DevOps+Engineer;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
   </a>
 
-  <br>
+  <br><br>
 
   <!-- Badges Ribbon -->
   <a href="https://www.thishakya.com/" target="_blank">
@@ -26,9 +26,9 @@
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20Views&color=161b22&style=flat-square" alt="Profile Views" />
 
-</div>
+  <br><br>
 
-<br>
+</div>
 
 ---
 
