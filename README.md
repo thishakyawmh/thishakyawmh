@@ -6,7 +6,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/thishakyawmh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Founder+of+ALYXRA;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=Aspiring+DevOps+%26+Cloud+Engineer;Computing+%26+Information+Systems+Undergraduate;Full-Stack+%26+Mobile+Developer;ICT+Tutor;Technical+Learner" alt="Professional Titles" />
   </a>
 
   <br><br>
@@ -69,6 +69,18 @@
 
 ---
 
+### Selected Projects
+
+| Project | What it demonstrates |
+| :--- | :--- |
+| [CODL-SUSL](https://github.com/thishakyawmh/CODL-SUSL) | University management and analytics platform with a Laravel backend and React frontend. |
+| [Dockerized Web Application](https://github.com/thishakyawmh/dockerized-web-application) | Containerized application deployment using Docker and Compose. |
+| [Linux Server Administration Lab](https://github.com/thishakyawmh/linux-server-administration-lab) | Practical Linux administration, shell scripting, SSH, Nginx, and service operations. |
+| [SpareXpress](https://github.com/thishakyawmh/sparexpress) | Vehicle spare-parts discovery frontend prototype. |
+| [Thish Academy](https://thishacademy.com) | Online ICT learning and tutoring platform. |
+
+---
+
 ### Technical Capabilities
 
 | Domain | Stack & Tooling Chips |
@@ -86,8 +98,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>DevOps & Cloud Systems</h4>
-      <p>Designing automated CI/CD pipelines, container orchestration, and resilient cloud environments.</p>
+      <h4>DevOps & Cloud Learning</h4>
+      <p>Building hands-on experience with Linux, Docker, CI/CD, networking, and cloud deployment through practical projects.</p>
       <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
       <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -114,7 +126,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>Software Engineering</h4>
-      <p>Building full-stack web and mobile applications with focus on clean code and reliable architecture.</p>
+      <p>Developing web and mobile applications while improving API design, testing, maintainability, and software architecture.</p>
       <img src="https://img.shields.io/badge/Core-Python_•_Java_•_C-3776AB?style=flat-square" />
       <img src="https://img.shields.io/badge/Web-JavaScript_•_PHP-F7DF1E?style=flat-square&logoColor=black" />
       <img src="https://img.shields.io/badge/Mobile-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
