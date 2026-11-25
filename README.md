@@ -1,34 +1,28 @@
-<div align="center">
+# Hi, I am Thishakya 👋
 
-  <img src="./bannarimage.png" width="100%" alt="Hirun Thishakya - DevOps Engineer" />
+<!-- Animated Typing Subtitle -->
+<a href="https://github.com/thishakyawmh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=1100&color=F99827&vCenter=true&width=550&lines=DevOps+Engineer;Founder+of+ALYXRA;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
+</a>
 
-  <br><br>
+<br>
 
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/thishakyawmh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2400&pause=1100&color=F99827&center=true&vCenter=true&width=620&lines=DevOps+Engineer;Founder+of+ALYXRA;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
-  </a>
+<!-- Badges Ribbon -->
+<a href="https://www.thishakya.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-thishakya.com-161b22?style=flat-square&logo=google-chrome&logoColor=f99827" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/thishakya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Hirun_Thishakya-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="mailto:hirunthishakya.wmh25@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Direct_Contact-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20Views&color=161b22&style=flat-square" alt="Profile Views" />
 
-  <br><br>
-
-  <!-- Badges Ribbon -->
-  <a href="https://www.thishakya.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thishakya.com-161b22?style=flat-square&logo=google-chrome&logoColor=f99827" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/thishakya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hirun_Thishakya-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:hirunthishakya.wmh25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Contact-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Profile%20Views&color=161b22&style=flat-square" alt="Profile Views" />
-
-  <br><br>
-
-</div>
+<br>
 
 ---
 
