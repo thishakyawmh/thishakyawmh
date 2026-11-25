@@ -1,6 +1,6 @@
 <img align="right" src="./me.png" width="160" height="160" alt="Hirun Thishakya" />
 
-<font size="6"><b>Hi, I am <font color="#8AB4F8">Thishakya</font> 👋</b></font>
+<img src="./greeting.svg" alt="Hi, I am Thishakya 👋" height="34" />
 
 <!-- Animated Typing Subtitle with Google Sans -->
 <a href="https://github.com/thishakyawmh">
