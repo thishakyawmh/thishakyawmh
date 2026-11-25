@@ -1,28 +1,18 @@
-<img align="right" src="./me.png" width="170" height="170" alt="Hirun Thishakya" />
+<img align="right" src="./me.png" width="160" height="160" alt="Hirun Thishakya" />
 
 <font size="6"><b>Hi, I am <font color="#8AB4F8">Thishakya</font> 👋</b></font>
 
 <!-- Animated Typing Subtitle with Google Sans -->
 <a href="https://github.com/thishakyawmh">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=20&duration=2400&pause=1100&color=8AB4F8&vCenter=true&width=400&height=44&lines=Founder+of+ALYXRA;Aspiring+DevOps+Engineer;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=500&size=20&duration=2400&pause=1100&color=8AB4F8&vCenter=true&width=360&height=40&lines=Founder+of+ALYXRA;Aspiring+DevOps+Engineer;ICT+Educator+%26+Tutor;Technical+Blogger;Full-Stack+Developer;Cloud+%26+Systems+Specialist" alt="Professional Titles" />
 </a>
 
 <br>
 
 <!-- Badges Ribbon: Material 3 Tonal Rounded Chips -->
-<a href="https://www.thishakya.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-8AB4F8?style=flat&logo=google-chrome&logoColor=white&labelColor=3C4043" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/thishakya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8AB4F8?style=flat&logo=linkedin&logoColor=white&labelColor=1A73E8" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="mailto:hirunthishakya.wmh25@gmail.com">
-  <img src="https://img.shields.io/badge/Email-F28B82?style=flat&logo=gmail&logoColor=white&labelColor=3C4043" alt="Email" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Views&color=81C995&style=flat&labelColor=3C4043" alt="Profile Views" />
+<p>
+  <a href="https://www.thishakya.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8AB4F8?style=flat&logo=google-chrome&logoColor=white&labelColor=3C4043" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/thishakya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-8AB4F8?style=flat&logo=linkedin&logoColor=white&labelColor=1A73E8" alt="LinkedIn" /></a>&nbsp;<a href="mailto:hirunthishakya.wmh25@gmail.com"><img src="https://img.shields.io/badge/Email-F28B82?style=flat&logo=gmail&logoColor=white&labelColor=3C4043" alt="Email" /></a>&nbsp;<a href="https://github.com/thishakyawmh"><img src="https://komarev.com/ghpvc/?username=thishakyawmh&label=Views&color=81C995&style=flat&labelColor=3C4043" alt="Profile Views" /></a>
+</p>
 
 <br clear="right" />
 <br>
