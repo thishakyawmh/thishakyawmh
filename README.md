@@ -52,6 +52,8 @@ I enjoy learning by building practical projects, documenting what I learn, and h
 - **[Spendly](https://github.com/thishakyawmh/spendly)** — Expense tracking application using React Native, Clerk, Express, Neon PostgreSQL, and Upstash
 - **[I-Computers](https://github.com/thishakyawmh/i-computers-frontend)** — E-commerce frontend and backend with React, Express, MongoDB, and JWT authentication
 - **[AssetSync](https://github.com/thishakyawmh/AssetSync_Frontend)** — University equipment and room resource allocation application
+- **[SpareXpress](https://github.com/thishakyawmh/sparexpress)** — Vehicle spare-parts discovery frontend prototype
+- **[Thish Academy](https://thishacademy.com)** — Online ICT learning and tutoring platform
 
 ## Learning and certifications
 
